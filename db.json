@@ -1,14 +1,619 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "page": 2,
+  "per_page": 6,
+  "total": 12,
+  "total_pages": 2,
+  "Sector": {
+    "SmartCity": {
+      "id": "SmartCity",
+      "Title": "Akıllı Şehir",
+      "Description": "Şehirlerin küresel olarak birbirine bağlı bir ekonomide rekabet etme ve kent sakinlerinin refahını sürdürülebilir bir şekilde sağlayabilme ihtiyacı ülkeleri ve şehirleri yeni teknoloji ve yenilikçi yaklaşımları değerlendirmeye yönlendirmektedir.",
+      "Certificate": {
+        "Title": "Sertifikalar",
+        "Images": [
+          {
+            "ImgTitle": "OHSAS-18001-2007\n",
+            "ImgUrl": "/assets/images/Sertifikalar/ohsas.png",
+            "ImgBigUrl": "/assets/images/page-img/certificate/furniture/OHSAS-18001-2007_B.jpg"
+          },
+          {
+            "ImgTitle": "CE-",
+            "ImgUrl": "/assets/images/Sertifikalar/CE.png",
+            "ImgBigUrl": "/assets/images/page-img/certificate/furniture/CE_B.jpg"
+          },
+          {
+            "ImgTitle": "ISO-1400-2015\n",
+            "ImgUrl": "/assets/images/Sertifikalar/iso-14.png",
+            "ImgBigUrl": "/assets/images/page-img/certificate/furniture/ISO-1400-2015_B.jpg"
+          },
+          {
+            "ImgTitle": "ISO-9001-2015\n",
+            "ImgUrl": "/assets/images/Sertifikalar/iso-90.png",
+            "ImgBigUrl": "/assets/images/page-img/certificate/furniture/ISO-9001-2015_B.jpg"
+          }
+        ]
+      },
+      "Projects": {
+        "Title": "Tamamlanan Projeler",
+        "ProjectsItem": [
+          {
+            "Id": 1,
+            "Name": "Balkanabat Rasathane ve Kütüphane Projesi",
+            "Location": "Balkanabat, Türkmenistan",
+            "Link": "our-potential-project-detail.html",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          },
+          {
+            "Id": 2,
+            "Name": "Türkmenabat Uluslararası Havalimanı",
+            "Location": "Türkmenabat, Türkmenistan",
+            "Link": "",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          },
+          {
+            "Id": 3,
+            "Name": "Hastane",
+            "Location": "İstanbul, Türkiye",
+            "Link": "",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          },
+          {
+            "Id": 4,
+            "Name": "Örnek Daire",
+            "Location": "Konya, Türkiye",
+            "Link": "",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          },
+          {
+            "Id": 5,
+            "Name": "Restourant",
+            "Location": "İstanbul, Türkiye",
+            "Link": "",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Aluminum": {
+      "id": "Aluminum",
+      "Title": "Alüminyum",
+      "Description": "Alüminyum cephe sektöründe öncü olan XXX Alüminyum ; uzman kadrosu, pek çok projeye imza atmış olmanın getirdiği engin deneyimi ve son teknolojiye uygun projelendirme alt yapısı ile her projeye en uygun cephe çözümleri ile yanıt vermeyi hedefler.     \n\nProje departmanımız içerisinde farklı proje ekipleri bulunur ve bu ekipler deneyimli proje liderleri öncülüğünde,projeleri anahtar teslim olarak başlangıcından işverene teslim edilmesine kadar yürütürler. Projelerin ihtiyaçları doğrultusunda , standart sistemlerimiz kullanılabildiği gibi, projeye özel detaylar ve sistemler de tasarlanıp uygulanmaktadır. ",
+      "Certificate": {
+        "Title": "Sertifikalar",
+        "Images": [
+          {
+            "ImgTitle": "OHSAS-18001-2007\n",
+            "ImgUrl": "/assets/images/Sertifikalar/ohsas.png",
+            "ImgBigUrl": "/assets/images/page-img/certificate/furniture/OHSAS-18001-2007_B.jpg"
+          },
+          {
+            "ImgTitle": "CE-",
+            "ImgUrl": "/assets/images/Sertifikalar/CE.png",
+            "ImgBigUrl": "/assets/images/page-img/certificate/furniture/CE_B.jpg"
+          },
+          {
+            "ImgTitle": "ISO-1400-2015\n",
+            "ImgUrl": "/assets/images/Sertifikalar/iso-14.png",
+            "ImgBigUrl": "/assets/images/page-img/certificate/furniture/ISO-1400-2015_B.jpg"
+          },
+          {
+            "ImgTitle": "ISO-9001-2015\n",
+            "ImgUrl": "/assets/images/Sertifikalar/iso-90.png",
+            "ImgBigUrl": "/assets/images/page-img/certificate/furniture/ISO-9001-2015_B.jpg"
+          }
+        ]
+      },
+      "Projects": {
+        "Title": "Tamamlanan Projeler",
+        "ProjectsItem": [
+          {
+            "Id": 1,
+            "Name": "1-- Test Alüminyum Proje",
+            "Location": "İstanbul, Türkiye",
+            "Link": "our-potential-project-detail.html",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          },
+          {
+            "Id": 2,
+            "Name": "2-- Test Alüminyum Proje",
+            "Location": "Ankara, Türkiye",
+            "Link": "",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          },
+          {
+            "Id": 3,
+            "Name": "3-- Test Alüminyum Proje",
+            "Location": "Hatay, Turkey",
+            "Link": "",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          },
+          {
+            "Id": 4,
+            "Name": "4-- Test Alüminyum Proje",
+            "Location": "Denizli, Türkiye",
+            "Link": "",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          },
+          {
+            "Id": 5,
+            "Name": "Restourant",
+            "Location": "İstanbul, Türkiye",
+            "Link": "",
+            "Avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "Detail": [
+              {
+                "Description": "Kerki havaalanı saatte 100 yolcu kapasitesine sahip olacak. Havaalanı 200 hektarlık bir alanı kaplayacak. Pistin uzunluğu 2700 metre, genişliği 60 metre olacak",
+                "Location": "Balkanabat, Türkmenistan",
+                "Owner": "",
+                "Certificate": [
+                  "Havaalanı binasının kapalı alanı 1730 metrekare olacak. Mare elektronik olarak;",
+                  "Merkezi TV Dağıtım Sistemleri,\n",
+                  "Network Tabanlı TV Sistemleri\n",
+                  "Ip Tabanlı Kapalı Devre Kamera Sistemleri\n",
+                  "Yangın Algılama Sistemleri\n",
+                  "Kartlı Geçiş ve Güvenlik Sistemleri\n",
+                  "Seslendirme Acil Anons\n",
+                  "Bina otomasyonu ve yönetimi\n",
+                  "Ses ve Görüntü Sistemleri, Altyapı Hizmetleri\n",
+                  "Pasaport ve sınır koruma sistemlerini\n",
+                  "Bagaj ve check-in sistemlerini\n",
+                  "Havalimanı pist aydınlatma sistemleri\n",
+                  "UHF ve VHF haberleşme sistemi\n",
+                  "Cvor DME Seyrüsefer sistemlerin yapımına devam etmekteyiz.\n"
+                ],
+                "Images": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ],
+                "OtherProjects": [
+                  "1.png",
+                  "2.png",
+                  "3.png",
+                  "4.png",
+                  "5.png",
+                  "6.png",
+                  "7.png",
+                  "8.png",
+                  "9.png",
+                  "10.png"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
   }
+
 }
