@@ -16,6 +16,23 @@
             "type": "wall art",
             "price": "94.63",
             "image": "https://unsplash.it/400/200?image=279",
+    "filters": [
+        {
+            "id": "1506445881315",
+            "name": "readymade shorts swag hoodie",
+            "description": "Schlitz party occupy OSS! Marfa mixtape church-key skateboard sold crucifix lo-fi fix lo-fi",
+            "tags": [
+                "fund",
+                "shabby",
+                "kitsch",
+                "chillwave",
+                "photo",
+                "actually"
+            ],
+            "style": "modern",
+            "type": "wall art",
+            "price": "94.63",
+            "image": "https://unsplash.it/400/200?image=279",
             "filters": {
                         {
                     "name": "Duy Tipi",
@@ -32,6 +49,23 @@
                 "price": "94.63"
             }
         },
+            "filters": {
+                        {
+                    "name": "Duy Tipi",
+                    "items": [
+                        "E27",
+                        "G13",
+                        "Gu10",
+                        "E14",
+                        "E4030"
+                    ]
+                },
+                "style": "modern",
+                "type": "wall art",
+                "price": "94.63"
+            }
+        }
+        ]
         {
             "id": "1506445881326",
             "name": "before",
