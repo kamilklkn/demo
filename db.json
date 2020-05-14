@@ -30,7 +30,7 @@
                         {
                           "id": "1506445881315",
                           "name": "Kontrol Tipi",
-                          "ControlType": "Sensörlü",
+                          "controlType": "Sensörlü",
                         },
                         {
                           "id": "1506445881315",
