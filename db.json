@@ -27,11 +27,16 @@
                           "name": "Lamba Say1s1",
                           "tags": ["1","2"]
                         },
-                          {
+                        {
                           "id": "1506445881315",
                           "name": "Kontrol Tipi",
                           "tags": ["Sensörlü"]
-                        }
+                        },
+                        {
+                          "id": "1506445881315",
+                          "name": "Rengi",
+                          "tags": ["Sensörlü"]
+                        },
                 ]
         },
         {
