@@ -18,7 +18,7 @@
             "image": "https://unsplash.it/400/200?image=279",
             "filters": {
                         {
-                    "style": "modern",
+                    "name": "Duy Tipi",
                     "tags": [
                         "fund",
                         "shabby",
