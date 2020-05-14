@@ -17,11 +17,11 @@
             "price": "94.63",
             "image": "https://unsplash.it/400/200?image=279",
                 "filters": [
-                      {
+                        {
                           "id": "1506445881315",
                           "name": "Duy Tipi",
                           "value": "1"
-                      },
+                        },
                         {
                           "id": "1506445881315",
                           "name": "Lamba Say1s1",
@@ -36,7 +36,7 @@
                           "id": "1506445881315",
                           "name": "Rengi",
                           "value": "Rengi"
-                        },
+                        }
                 ]
         },
         {
