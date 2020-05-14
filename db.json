@@ -16,11 +16,11 @@
             "type": "wall art",
             "price": "94.63",
             "image": "https://unsplash.it/400/200?image=279",
-            "filters": [
-                 "style": "modern",
-            "type": "wall art",
-            "price": "94.63"
-            ]
+            "filters": {
+                "style": "modern",
+                "type": "wall art",
+                "price": "94.63"
+            }
         },
         {
             "id": "1506445881326",
