@@ -18,13 +18,14 @@
             "image": "https://unsplash.it/400/200?image=279",
     
             "filters": {
-              [
-                {
+                [
+                    {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
                     "tags": ["E27","G13"]
     
-                },
+                    },
+                ]
             }
         }
         ]
