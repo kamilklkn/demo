@@ -18,19 +18,16 @@
             "image": "https://unsplash.it/400/200?image=279",
     
             "filters": {
-                        {
+                "filters": [
+                {
+                    "id": "1506445881315",
                     "name": "Duy Tipi",
-                    "items": [
+                    "tags": [
                         "E27",
-                        "G13",
-                        "Gu10",
-                        "E14",
-                        "E4030"
+                        "G13"
                     ]
+    
                 },
-                "style": "modern",
-                "type": "wall art",
-                "price": "94.63"
             }
         }
         ]
