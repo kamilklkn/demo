@@ -15,13 +15,23 @@
             "style": "modern",
             "type": "wall art",
             "price": "94.63",
-            "image": "https://unsplash.it/400/200?image=279"
+            "image": "https://unsplash.it/400/200?image=279",
                 "filters": [
                       {
                           "id": "1506445881315",
                           "name": "Duy Tipi",
                           "tags": ["E27","G13"]
-                      }
+                      },
+                        {
+                          "id": "1506445881315",
+                          "name": "Lamba Say1s1",
+                          "tags": ["1","2"]
+                        },
+                          {
+                          "id": "1506445881315",
+                          "name": "Kontrol Tipi",
+                          "tags": ["1","2"]
+                        }
                 ]
         },
         {
