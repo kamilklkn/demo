@@ -17,12 +17,9 @@
             "price": "94.63",
             "image": "https://unsplash.it/400/200?image=279",
             "filters": [
-                "fund",
-                "shabby",
-                "kitsch",
-                "chillwave",
-                "photo",
-                "actually"
+                 "style": "modern",
+            "type": "wall art",
+            "price": "94.63",
             ]
         },
         {
