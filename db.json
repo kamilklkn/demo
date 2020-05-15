@@ -315,7 +315,7 @@
             "id": "1506445881357",
             "name": "fixie",
             "description": "place salvia pork cardigan asymmetrical salvia butcher slow-carb chia put 2017-06-23; Williamsburg",
-             "filters": [
+            "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -355,7 +355,7 @@
             "id": "1506445881358",
             "name": "letterpress",
             "description": "iPhone probably polaroid v 3 shabby +1 pickled fixie Bottle Cosby retro Godard NOT chips pack selvage Progress",
-             "filters": [
+            "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -393,7 +393,8 @@
         {
             "id": "1506445931918",
             "name": "Neutra Echo",
-            "description": "Odd Anderson it locavore blog they street Anderson fix raw", "filters": [
+            "description": "Odd Anderson it locavore blog they street Anderson fix raw",
+            "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -410,7 +411,7 @@
                     "value": "Manuel"
                 },
                 {
-                   "id": "1506445881315",
+                    "id": "1506445881315",
                     "name": "Rengi",
                     "valueName": "Mor",
                     "value": "#9a12b3"
@@ -431,7 +432,7 @@
             "id": "1506445931921",
             "name": "wayfarers party Wes Progress",
             "description": "Tonx selvage NOT booth sweater drinking retro before sustainable umami before sweater loko tattooed 90's",
-             "filters": [
+            "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -448,7 +449,7 @@
                     "value": "Sensörlü"
                 },
                 {
-                         "id": "1506445881315",
+                    "id": "1506445881315",
                     "name": "Rengi",
                     "valueName": "Nar K1rm1z1s1",
                     "value": "#f03434"
@@ -471,7 +472,7 @@
             "id": "1506445931922",
             "name": "aesthetic",
             "description": "mi vinegar wayfarers mustache retro party salvia banh Intelligentsia 2017-06-23; Future disrupt cleanse place fixie level on",
-             "filters": [
+            "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -488,7 +489,7 @@
                     "value": "Sensörlü"
                 },
                 {
-                       "id": "1506445881315",
+                    "id": "1506445881315",
                     "name": "Rengi",
                     "valueName": "0ris Mavi",
                     "value": "#00b5cc"
@@ -510,7 +511,7 @@
             "id": "1506445931922",
             "name": "pour-over before level",
             "description": "vinyl salvia master PBR&B salvia cray Godard chia umami cornhole cardigan viral brunch axe roof aesthetic shabby",
-             "filters": [
+            "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -527,7 +528,7 @@
                     "value": "Sensörlü"
                 },
                 {
-             "id": "1506445881315",
+                    "id": "1506445881315",
                     "name": "Rengi",
                     "valueName": "Turuncu",
                     "value": "#e87e04"
@@ -549,7 +550,7 @@
             "id": "1506445931923",
             "name": "mumblecore",
             "description": "wolf polaroid bicycle vinyl bespoke lo-fi American biodiesel brunch",
-             "filters": [
+            "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -681,10 +682,10 @@
                     "value": "Sensörlü"
                 },
                 {
-                      "id": "1506445881315",
+                    "id": "1506445881315",
                     "name": "Rengi",
-                    "valueName": "Turkuaz",
-                    "value": "#29f1c3"
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
                 }
             ],
             "tags": [
@@ -721,7 +722,8 @@
                 {
                     "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
                 }
             ],
             "tags": [
@@ -756,10 +758,10 @@
                     "value": "Sensörlü"
                 },
                 {
-                     "id": "1506445881315",
+                    "id": "1506445881315",
                     "name": "Rengi",
-                    "valueName": "Turkuaz",
-                    "value": "#29f1c3"
+                    "valueName": "Nar K1rm1z1s1",
+                    "value": "#f03434"
                 }
             ],
             "tags": [
