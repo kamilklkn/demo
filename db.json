@@ -123,6 +123,29 @@
             "id": "1506445881327",
             "name": "chia",
             "description": "synth VHS flexitarian swag scenester moon lomo cray gastropub swag art deep vinyl PBR",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "6"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Manuel"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Aç1k Pembe",
+                    "value": "#f62459"
+                }
+            ],
             "tags": [
                 "shabby",
                 "booth",
