@@ -248,6 +248,28 @@
             "id": "1506445881357",
             "name": "Bottle cleanse master",
             "description": "ethical hoodie Park whatever flexitarian bitters Bushwick street level on single-origin cred bag",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "value": "Rengi"
+                }
+            ],
             "tags": [
                 "Apparel",
                 "chambray",
