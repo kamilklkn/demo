@@ -315,6 +315,29 @@
             "id": "1506445881357",
             "name": "fixie",
             "description": "place salvia pork cardigan asymmetrical salvia butcher slow-carb chia put 2017-06-23; Williamsburg",
+             "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
+                }
+            ],
             "tags": [
                 "direct",
                 "bicycle",
