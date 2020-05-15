@@ -333,6 +333,28 @@
             "id": "1506445931921",
             "name": "wayfarers party Wes Progress",
             "description": "Tonx selvage NOT booth sweater drinking retro before sustainable umami before sweater loko tattooed 90's",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "value": "Rengi"
+                }
+            ],
             "tags": [
                 "mi",
                 "stumptown",
