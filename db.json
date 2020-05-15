@@ -16,55 +16,55 @@
             "type": "wall art",
             "price": "94.63",
             "image": "https://unsplash.it/400/200?image=279",
-                "filters": [
-                        {
-                          "id": "1506445881315",
-                          "name": "Duy Tipi",
-                          "value": "1"
-                        },
-                        {
-                          "id": "1506445881315",
-                          "name": "Lamba Say1s1",
-                          "value": "1"
-                        },
-                        {
-                          "id": "1506445881315",
-                          "name": "Kontrol Tipi",
-                          "value": "Sensörlü"
-                        },
-                        {
-                          "id": "1506445881315",
-                          "name": "Rengi",
-                          "value": "Rengi"
-                        }
-                ]
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "value": "Rengi"
+                }
+            ]
         },
         {
             "id": "1506445881326",
             "name": "before",
             "description": "Vice Tumblr belly beer Internal Future semiotics single-origin narwhal High chambray loko ugh art",
             "filters": [
-                        {
-                          "id": "1506445881315",
-                          "name": "Duy Tipi",
-                          "value": "1"
-                        },
-                        {
-                          "id": "1506445881315",
-                          "name": "Lamba Say1s1",
-                          "value": "1"
-                        },
-                        {
-                          "id": "1506445881315",
-                          "name": "Kontrol Tipi",
-                          "value": "Sensörlü"
-                        },
-                        {
-                          "id": "1506445881315",
-                          "name": "Rengi",
-                          "value": "Rengi"
-                        }
-                ],
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "value": "Rengi"
+                }
+            ],
             "tags": [
                 "post-ironic",
                 "haven't",
