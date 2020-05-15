@@ -137,6 +137,28 @@
             "id": "1506445881344",
             "name": "bicycle dreamcatcher Wes",
             "description": "vinyl put in mi post-ironic out mumblecore artisan are cornhole trade scenester Brooklyn PBR&B four party master sriracha",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "value": "Rengi"
+                }
+            ],
             "tags": [
                 "butcher",
                 "scenester",
