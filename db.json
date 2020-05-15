@@ -448,6 +448,28 @@
             "id": "1506445931923",
             "name": "mumblecore",
             "description": "wolf polaroid bicycle vinyl bespoke lo-fi American biodiesel brunch",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "value": "Rengi"
+                }
+            ],
             "tags": [
                 "trade",
                 "authentic",
