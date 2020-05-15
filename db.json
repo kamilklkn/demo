@@ -393,7 +393,29 @@
         {
             "id": "1506445931918",
             "name": "Neutra Echo",
-            "description": "Odd Anderson it locavore blog they street Anderson fix raw",
+            "description": "Odd Anderson it locavore blog they street Anderson fix raw", "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "E33"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "4"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Manuel"
+                },
+                {
+                   "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Mor",
+                    "value": "#9a12b3"
+                }
+            ],
             "tags": [
                 "pork",
                 "Marfa",
