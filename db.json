@@ -219,7 +219,7 @@
                 },
                 {
                     "id": "1506445881315",
-                   "name": "Rengi",
+                    "name": "Rengi",
                     "valueName": "Pembe Turkuaz",
                     "value": "#29f1c3"
                 }
@@ -258,7 +258,8 @@
                 {
                     "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Pembe Turkuaz",
+                    "value": "#29f1c3"
                 }
             ],
             "tags": [
