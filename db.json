@@ -485,6 +485,28 @@
             "id": "1506445931923",
             "name": "meh",
             "description": "Williamsburg party twee hella retro Brooklyn tofu sartorial bird cleanse chia keffiyeh heirloom church-key",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "value": "Rengi"
+                }
+            ],
             "tags": [
                 "meggings",
                 "blog",
