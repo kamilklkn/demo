@@ -355,6 +355,29 @@
             "id": "1506445881358",
             "name": "letterpress",
             "description": "iPhone probably polaroid v 3 shabby +1 pickled fixie Bottle Cosby retro Godard NOT chips pack selvage Progress",
+             "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Siyah",
+                    "value": "#2e3131"
+                }
+            ],
             "tags": [
                 "art",
                 "keffiyeh",
@@ -386,7 +409,7 @@
             "id": "1506445931921",
             "name": "wayfarers party Wes Progress",
             "description": "Tonx selvage NOT booth sweater drinking retro before sustainable umami before sweater loko tattooed 90's",
-            "filters": [
+             "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -405,7 +428,8 @@
                 {
                     "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
                 }
             ],
             "tags": [
@@ -425,7 +449,7 @@
             "id": "1506445931922",
             "name": "aesthetic",
             "description": "mi vinegar wayfarers mustache retro party salvia banh Intelligentsia 2017-06-23; Future disrupt cleanse place fixie level on",
-            "filters": [
+             "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -444,7 +468,8 @@
                 {
                     "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
                 }
             ],
             "tags": [
@@ -463,7 +488,7 @@
             "id": "1506445931922",
             "name": "pour-over before level",
             "description": "vinyl salvia master PBR&B salvia cray Godard chia umami cornhole cardigan viral brunch axe roof aesthetic shabby",
-            "filters": [
+             "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -482,7 +507,8 @@
                 {
                     "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
                 }
             ],
             "tags": [
@@ -501,7 +527,7 @@
             "id": "1506445931923",
             "name": "mumblecore",
             "description": "wolf polaroid bicycle vinyl bespoke lo-fi American biodiesel brunch",
-            "filters": [
+             "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -520,7 +546,8 @@
                 {
                     "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
                 }
             ],
             "tags": [
