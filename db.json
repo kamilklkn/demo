@@ -597,6 +597,28 @@
             "id": "1506445931926",
             "name": "squid sriracha",
             "description": "Cosby bespoke fixie Vice them try-hard food narwhal tousled are Truffaut fingerstache sartorial",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "value": "Rengi"
+                }
+            ],
             "tags": [
                 "stumptown",
                 "on",
