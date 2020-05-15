@@ -410,6 +410,28 @@
             "id": "1506445931922",
             "name": "pour-over before level",
             "description": "vinyl salvia master PBR&B salvia cray Godard chia umami cornhole cardigan viral brunch axe roof aesthetic shabby",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Say1s1",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "value": "Rengi"
+                }
+            ],
             "tags": [
                 "honored",
                 "sold",
