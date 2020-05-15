@@ -220,7 +220,7 @@
                 {
                     "id": "1506445881315",
                     "name": "Rengi",
-                    "valueName": "Pembe Turkuaz",
+                    "valueName": "Turkuaz",
                     "value": "#29f1c3"
                 }
             ],
@@ -488,10 +488,10 @@
                     "value": "Sensörlü"
                 },
                 {
-                    "id": "1506445881315",
+                       "id": "1506445881315",
                     "name": "Rengi",
-                    "valueName": "Turuncu",
-                    "value": "#e87e04"
+                    "valueName": "0ris Mavi",
+                    "value": "#00b5cc"
                 }
             ],
             "tags": [
@@ -527,7 +527,7 @@
                     "value": "Sensörlü"
                 },
                 {
-                    "id": "1506445881315",
+             "id": "1506445881315",
                     "name": "Rengi",
                     "valueName": "Turuncu",
                     "value": "#e87e04"
@@ -606,7 +606,8 @@
                 {
                     "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Aç1k Pembe",
+                    "value": "#f62459"
                 }
             ],
             "tags": [
@@ -643,7 +644,8 @@
                 {
                     "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Turkuaz",
+                    "value": "#29f1c3"
                 }
             ],
             "tags": [
@@ -679,9 +681,10 @@
                     "value": "Sensörlü"
                 },
                 {
-                    "id": "1506445881315",
+                      "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Turkuaz",
+                    "value": "#29f1c3"
                 }
             ],
             "tags": [
@@ -753,9 +756,10 @@
                     "value": "Sensörlü"
                 },
                 {
-                    "id": "1506445881315",
+                     "id": "1506445881315",
                     "name": "Rengi",
-                    "value": "Rengi"
+                    "valueName": "Turkuaz",
+                    "value": "#29f1c3"
                 }
             ],
             "tags": [
