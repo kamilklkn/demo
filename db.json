@@ -39,7 +39,14 @@
                     "value": "#00b5cc"
                 }
             ],
-            "Kontrol Tipi": "Sensörlü",
+            "Kontrol Tipi":  [
+                "Sensörlü",
+                "shabby",
+                "kitsch",
+                "chillwave",
+                "photo",
+                "actually"
+            ],
             "Rengi": "#00b5cc",
             "Duy Tipi": "E27"
         },
