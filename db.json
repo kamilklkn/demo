@@ -12,7 +12,8 @@
                 "photo",
                 "actually"
             ],
-            "Duy Tipi": [
+        
+               "Duy Tipi": [
                 "fund",
                 "shabby",
                 "kitsch",
@@ -22,10 +23,12 @@
             ],
             "style": "modern",
             "type": "wall art",
-            "Kontrol Tipi": "Sensörlü"
-            "Rengi":"#00b5cc",
+          
             "price": "94.63",
             "image": "https://unsplash.it/400/200?image=279",
+              "Kontrol Tipi": "Sensörlü"
+            "Rengi":"#00b5cc",
+            "Duy Tipi":"E27",
             "filters": [
                 {
                     "id": "1506445881315",
