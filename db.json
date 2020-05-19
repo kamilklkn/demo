@@ -38,7 +38,10 @@
                     "valueName": "İris Mavi",
                     "value": "#00b5cc"
                 }
-            ]
+            ],
+            "Kontrol Tipi": "Sensörlü",
+            "Rengi": "#00b5cc",
+            "Duy Tipi": "E27",
         },
         {
             "id": "1506445881326",
