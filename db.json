@@ -12,15 +12,7 @@
                 "photo",
                 "actually"
             ],
-        
-               "Duy Tipi": [
-                "fund",
-                "shabby",
-                "kitsch",
-                "chillwave",
-                "photo",
-                "actually"
-            ],
+    
             "style": "modern",
             "type": "wall art",
           
@@ -57,6 +49,9 @@
             "id": "1506445881326",
             "name": "before",
             "description": "Vice Tumblr belly beer Internal Future semiotics single-origin narwhal High chambray loko ugh art",
+                  "Kontrol Tipi": "Sensörlü"
+            "Rengi":"#00b5cc",
+            "Duy Tipi":"E27",
             "filters": [
                 {
                     "id": "1506445881315",
