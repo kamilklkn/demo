@@ -12,10 +12,8 @@
                 "photo",
                 "actually"
             ],
-    
             "style": "modern",
             "type": "wall art",
-          
             "price": "94.63",
             "image": "https://unsplash.it/400/200?image=279",
             "Kontrol Tipi": "Sensörlü",
@@ -49,7 +47,7 @@
             "id": "1506445881326",
             "name": "before",
             "description": "Vice Tumblr belly beer Internal Future semiotics single-origin narwhal High chambray loko ugh art",
-                  "Kontrol Tipi": "Sensörlü"
+                  "Kontrol Tipi": "Sensörlü",
             "Rengi":"#00b5cc",
             "Duy Tipi":"E27",
             "filters": [
@@ -131,7 +129,7 @@
             "id": "1506445881327",
             "name": "chia",
             "description": "synth VHS flexitarian swag scenester moon lomo cray gastropub swag art deep vinyl PBR",
-                  "Kontrol Tipi": "Sensörlü"
+                  "Kontrol Tipi": "Sensörlü",
             "Rengi":"#00b5cc",
             "Duy Tipi":"E27",
             "filters": [
