@@ -92,8 +92,8 @@
         },
         {
             "id": "1506445881327",
-            "name": "chia",
-            "description": "synth VHS flexitarian swag scenester moon lomo cray gastropub swag art deep vinyl PBR",
+            "name": "Optik Altıgen Ters Aplik Beyaz",
+            "description": "....",
             "filters": [
                 {
                     "id": "1506445881315",
@@ -117,18 +117,8 @@
                     "value": "#f62459"
                 }
             ],
-            "tags": [
-                "shabby",
-                "booth",
-                "yr",
-                "art",
-                "lomo",
-                "master"
-            ],
-            "style": "traditional",
-            "Lamba Sayısı": "1",
-            "price": "62.35",
-            "image": "https://unsplash.it/400/200?image=768"
+            "price": "0",
+            "image": "/assets/product/5.png"
         },
         {
             "id": "1506445881344",
