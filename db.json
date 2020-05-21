@@ -2,20 +2,10 @@
     "products": [
         {
             "id": "1506445881315",
-            "name": "readymade shorts swag hoodie",
-            "description": "Schlitz party occupy OSS! Marfa mixtape church-key skateboard sold crucifix lo-fi fix lo-fi",
-            "tags": [
-                "fund",
-                "shabby",
-                "kitsch",
-                "chillwave",
-                "photo",
-                "actually"
-            ],
-            "style": "modern",
-            "type": "wall art",
-            "price": "94.63",
-            "image": "https://unsplash.it/400/200?image=279",
+            "name": "Duvar lambası Lussole Koyukuk LSP-8048, 40 W",
+            "description": "İster yeni bir tesis için, isterse mevcut bir alanın yenilenmesi için olsun, müşteriler kaliteli ışık sunan, enerji ve bakım maliyetlerinden önemli ölçüde tasarruf sağlayan çözümler talep eder. <br><br>Yeni CoreLine Trunking LED ürünleri serisi, genel aydınlatmaya alternatif olarak kullanılabilir. Seçim, kurulum ve bakım işlemleri çok kolay olduğundan basit bir dönüşüm olacaktır.",
+            "price": "0",
+            "image": "/assets/product/3.png",
             "filters": [
                 {
                     "id": "1506445881315",
@@ -38,13 +28,7 @@
                     "valueName": "İris Mavi",
                     "value": "#00b5cc"
                 }
-            ],
-            "Kontrol Tipi":  [
-                "Sensörlü",
-                "Manuel"
-            ],
-            "Rengi": "#00b5cc",
-            "Duy Tipi": "E27"
+            ]
         },
         {
             "id": "1506445881326",
