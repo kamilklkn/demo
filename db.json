@@ -122,8 +122,8 @@
         },
         {
             "id": "1506445881344",
-            "name": "bicycle dreamcatcher Wes",
-            "description": "vinyl put in mi post-ironic out mumblecore artisan are cornhole trade scenester Brooklyn PBR&B four party master sriracha",
+            "name": "Modelight Optik Kare Ters Aplik Bakır",
+            "description": "..",
             "filters": [
                 {
                     "id": "1506445881315",
@@ -147,16 +147,8 @@
                     "value": "#9a12b3"
                 }
             ],
-            "tags": [
-                "butcher",
-                "scenester",
-                "bag",
-                "flannel"
-            ],
-            "style": "retro",
-            "type": "beer",
-            "price": "22.26",
-            "image": "https://unsplash.it/400/200?image=990"
+            "price": "0",
+            "image": "/assets/product/6.png"
         },
         {
             "id": "1506445881347",
