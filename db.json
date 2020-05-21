@@ -6,6 +6,7 @@
             "description": "İster yeni bir tesis için, isterse mevcut bir alanın yenilenmesi için olsun, müşteriler kaliteli ışık sunan, enerji ve bakım maliyetlerinden önemli ölçüde tasarruf sağlayan çözümler talep eder. <br><br>Yeni CoreLine Trunking LED ürünleri serisi, genel aydınlatmaya alternatif olarak kullanılabilir. Seçim, kurulum ve bakım işlemleri çok kolay olduğundan basit bir dönüşüm olacaktır.",
             "price": "0",
             "image": "/assets/product/3.png",
+            "productDateAdded":"19.05.2020",
             "filters": [
                 {
                     "id": "1506445881315",
@@ -33,6 +34,7 @@
         {
             "id": "1506445881326",
             "name": "Optik Kare Aplik Beyaz",
+            "productDateAdded":"19.05.2020",
             "description": "....",
             "filters": [
                 {
@@ -63,6 +65,7 @@
         {
             "id": "1506445881327",
             "name": "Modelight Optik Kare Ters Aplik Siyah",
+            "productDateAdded":"19.05.2020",
             "description": "....",
             "filters": [
                 {
