@@ -451,8 +451,8 @@
         },
         {
             "id": "1506445931923",
-            "name": "meh",
-            "description": "Williamsburg party twee hella retro Brooklyn tofu sartorial bird cleanse chia keffiyeh heirloom church-key",
+            "name": "Mobi Ahşap Lineer",
+            "description": "...",
             "filters": [
                 {
                     "id": "1506445881315",
@@ -476,15 +476,7 @@
                     "value": "#f62459"
                 }
             ],
-            "tags": [
-                "meggings",
-                "blog",
-                "hella",
-                "haven't"
-            ],
-            "style": "transitional",
-            "type": "wall art",
-            "price": "72.69",
+            "price": "0",
             "image": "https://unsplash.it/400/200?image=335"
         },
         {
