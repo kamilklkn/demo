@@ -536,15 +536,7 @@
                     "value": "#e87e04"
                 }
             ],
-            "tags": [
-                "heirloom",
-                "in",
-                "messenger",
-                "cred"
-            ],
-            "style": "kitsch",
-            "type": "beer",
-            "price": "68.72",
+            "price": "0",
             "image": "https://unsplash.it/400/200?image=700"
         },
         {
