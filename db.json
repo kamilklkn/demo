@@ -19,10 +19,10 @@
                     ],
                     "Flow": "Flow (m3/h)",
                     "Operating Pressure": "Operating Pressure (mWC)",
-                         "Diameter of Manifold": [
+                    "Diameter of Manifold": [
                         {
-                            "kW": "Voltage (V)",
-                            "HP": "Voltage (V)"
+                            "Suction": "Voltage (V)",
+                            "Discharge": "Voltage (V)"
                         }
                     ]
                 }
