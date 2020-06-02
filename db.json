@@ -29,9 +29,16 @@
             ],
             "subProducts": [
                 {
-                    "id d": "1506445881311",
-                    "name": "Model",
-                    "value": "E27"
+                    "id": "1506445881311",
+                    "name": "DC1 XVM 1-9",
+                    "Phase": "3",
+                    "Voltage": "400",
+                    "kW": "0,55",
+                    "HP": "0,75",
+                    "Flow": "400",
+                    "Operating Pressure": "0,55",
+                    "Suction": "0,75",
+                    "Discharge": "0,75"
                 },
                 {
                     "id": "1506445881315",
