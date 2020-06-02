@@ -40,21 +40,17 @@
                     "Suction": "1\"",
                     "Discharge": "1\""
                 },
-                {
-                    "id": "1506445881315",
-                    "name": "Lamba Sayısı",
-                    "value": "1"
-                },
-                {
-                    "id": "1506445881315",
-                    "name": "Kontrol Tipi",
-                    "value": "Sensörlü"
-                },
-                {
-                    "id": "1506445881315",
-                    "name": "Rengi",
-                    "valueName": "İris Mavi",
-                    "value": "#00b5cc"
+               {
+                    "id": "1506445881311",
+                    "name": "DC1 XVM 1-9",
+                    "Phase": "3",
+                    "Voltage": "400",
+                    "kW": "0,55",
+                    "HP": "0,75",
+                    "Flow": "1,8",
+                    "Operating Pressure": "37-49",
+                    "Suction": "1\"",
+                    "Discharge": "1\""
                 }
             ],
             "image": "/assets/images/product/ebit/ebit-dc1-dc2-dc3-wv-series-dikey-pompali-hidrafor.png",
