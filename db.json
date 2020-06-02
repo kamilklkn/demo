@@ -87,6 +87,18 @@
                     "Operating Pressure": "55-70",
                     "Suction": "1\"",
                     "Discharge": "1\""
+                },
+                 {
+                    "id": "1506445881315",
+                    "name": "DC1 XVM 1-13",
+                    "Phase": "3",
+                    "Voltage": "400",
+                    "kW": "0,75",
+                    "HP": "1",
+                    "Flow": "1,8",
+                    "Operating Pressure": "55-70",
+                    "Suction": "1\"",
+                    "Discharge": "1\""
                 }
             ],
             "image": "/assets/images/product/ebit/ebit-dc1-dc2-dc3-wv-series-dikey-pompali-hidrafor.png",
