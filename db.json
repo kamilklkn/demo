@@ -185,14 +185,14 @@
                     "Discharge": "1\""
                 },
                 {
-                    "id": "1506445881323",
-                    "name": "DC1 XVM 1-30",
+                    "id": "1506445881324",
+                    "name": "DC1 XVM 1-33",
                     "Phase": "3",
                     "Voltage": "400",
-                    "kW": "1,5",
-                    "HP": "2",
+                    "kW": "2,2",
+                    "HP": "3",
                     "Flow": "1,8",
-                    "Operating Pressure": "135-155",
+                    "Operating Pressure": "150-170",
                     "Suction": "1\"",
                     "Discharge": "1\""
                 }
