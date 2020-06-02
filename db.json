@@ -296,6 +296,532 @@
             ],
             "price": "0",
             "image": "/assets/product/2.png"
+        },
+        {
+            "id": "2427890724",
+            "name": "Optik Altıgen Ters Aplik Beyaz",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "productDateAdded": "19/04/2020",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "G10"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "6"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Manuel"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Açık Pembe",
+                    "value": "#f62459"
+                }
+            ],
+            "price": "0",
+            "image": "/assets/product/5.png"
+        },
+        {
+            "id": "1509522807",
+            "name": "Modelight Optik Kare Ters Aplik Bakır",
+            "productDateAdded": "19/04/2020",
+            "description": "Ampül Paket İçerisine Dahil Değildir. Her Türlü E27 Duylu Ampül İle Kullanabilirsiniz.",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "G13"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "5"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Mor",
+                    "value": "#9a12b3"
+                }
+            ],
+            "price": "0",
+            "image": "/assets/product/6.png"
+        },
+        {
+            "id": "9056375414",
+            "name": "Philips Massive Dubrovnik Aplik Yeşil 1X100 15030/45/10",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "productDateAdded": "19/04/2020",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "E40"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "3"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Turkuaz",
+                    "value": "#29f1c3"
+                }
+            ],
+            "price": "0",
+            "image": "/assets/product/7.png"
+        },
+        {
+            "id": "7429985549",
+            "name": "Aqua Aplik Silah Kafesli Nemli Yer",
+            "productDateAdded": "19/04/2020",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "G10"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "8"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Silindir Hacmi",
+                    "value": "1.6 litre"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Yonca Yeşili",
+                    "value": "#00e640"
+                }
+            ],
+            "price": "0",
+            "image": "/assets/product/8.png"
+        },
+        {
+            "id": "0626317866",
+            "name": "Optik Altıgen Ters Aplik Beyaz",
+            "productDateAdded": "19/04/2020",
+            "description": "...",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "E14"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "5"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Limon Sarısı",
+                    "value": "#f7ca18"
+                }
+            ],
+            "price": "0",
+            "image": "/assets/product/9.png"
+        },
+        {
+            "id": "7235235115",
+            "name": "Modelight Optik Kare Ters Aplik Siyah",
+            "productDateAdded": "19/04/2020",
+            "description": "İster yeni bir tesis için, isterse mevcut bir alanın yenilenmesi için olsun, müşteriler kaliteli ışık sunan, enerji ve bakım maliyetlerinden önemli ölçüde tasarruf sağlayan çözümler talep eder. <br><br>Yeni CoreLine Trunking LED ürünleri serisi, genel aydınlatmaya alternatif olarak kullanılabilir. Seçim, kurulum ve bakım işlemleri çok kolay olduğundan basit bir dönüşüm olacaktır.",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "G13"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "E40"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
+                }
+            ],
+            "price": "0",
+            "image": "/assets/product/2.png"
+        },
+        {
+            "id": "3905508245",
+            "name": "Lineer Profil LED FIONA HEXAGON",
+            "productDateAdded": "19/04/2020",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "G10"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "4"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Siyah",
+                    "value": "#2e3131"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2018/09/hexagon-e1536604108515.png"
+        },
+        {
+            "id": "7306299446",
+            "name": "Lineer Profil LED FIONA FLASH",
+            "productDateAdded": "19/04/2020",
+            "description": "Elektrostatik toz boyalı alüminyum gövde Yüksek geçirgenlikte PMMA difüzö",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "E13"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "4"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Manuel"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Mor",
+                    "value": "#9a12b3"
+                }
+            ],
+            "image": "http://2slighting.com/wp-content/uploads/2018/09/22.jpg..jpg"
+        },
+        {
+            "id": "6649819904",
+            "name": "Lineer Profil LED FIONA TRI",
+            "productDateAdded": "19/04/2020",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "Gu10"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "7"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Nar Kırmızısı",
+                    "value": "#f03434"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2018/09/Bas%CC%A7l%C4%B1ks%C4%B1z-1-3.png"
+        },
+        {
+            "id": "9565352030",
+            "name": "Ray Spot 2s 7540",
+            "productDateAdded": "19/04/2020",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "G13"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "5"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "İris Mavi",
+                    "value": "#00b5cc"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2017/09/7540-Ray-Spot.jpg"
+        },
+        {
+            "id": "4350025273",
+            "name": "Ray Spot 7635",
+            "productDateAdded": "19/04/2020",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "E14"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2017/09/7635-Ray-Spot.jpg"
+        },
+        {
+            "id": "4887631732",
+            "name": "LEDLİ DOWNLIGHT Aydınlatma CAP-7375",
+            "productDateAdded": "19/04/2020",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "Gu10"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "5"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2017/11/ledli-downlight-aydinlatm-2s-7375-1.jpg"
+        },
+        {
+            "id": "7104506604",
+            "name": "Mobi Ahşap Lineer",
+            "productDateAdded": "19/04/2020",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "G13"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "8"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Açık Pembe",
+                    "value": "#f62459"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2017/09/Mobil-Ah%C5%9Fap-Lineer-2SL%C4%B0GHT%C4%B0NG-1.jpg"
+        },
+        {
+            "id": "9915343778",
+            "name": "POLOLED Aydınlatma",
+            "productDateAdded": "19/04/2020",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "E13"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "4"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Turkuaz",
+                    "value": "#29f1c3"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2017/11/ankaled.jpg"
+        },
+        {
+            "id": "7338121395",
+            "productDateAdded": "19/04/2020",
+            "name": "Led Park ve Bahçe Aydınlatması Dış Mekan LED TEK YÖN APLİK",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "Gu10"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "5"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2017/10/led-park-bahce-aydinlatmasi-dis-mekan-led-tek-yon-aplik.jpg"
+        },
+        {
+            "id": "3884077384",
+            "name": "Salinas Sarkıt Aydınlatma",
+            "productDateAdded": "19/04/2020",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "E14"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "1"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Turuncu",
+                    "value": "#e87e04"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2017/09/Salinas-Sark%C4%B1t-Ayd%C4%B1nlatma.jpg"
+        },
+        {
+            "id": "0422124995",
+            "productDateAdded": "19/04/2020",
+            "name": "Frisco Sarkıt Aydınlatma",
+            "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "filters": [
+                {
+                    "id": "1506445881315",
+                    "name": "Duy Tipi",
+                    "value": "G13"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Lamba Sayısı",
+                    "value": "10"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Kontrol Tipi",
+                    "value": "Sensörlü"
+                },
+                {
+                    "id": "1506445881315",
+                    "name": "Rengi",
+                    "valueName": "Nar Kırmızısı",
+                    "value": "#f03434"
+                }
+            ],
+            "price": "0",
+            "image": "http://2slighting.com/wp-content/uploads/2017/09/Frisco-Sark%C4%B1t-Ayd%C4%B1nlatma.jpg"
         }
     ]
 }
