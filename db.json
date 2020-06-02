@@ -19,7 +19,12 @@
                     ],
                     "Flow": "Flow (m3/h)",
                     "Operating Pressure": "Operating Pressure (mWC)",
-                    "row7": "Voltage (V)"
+                         "Diameter of Manifold": [
+                        {
+                            "kW": "Voltage (V)",
+                            "HP": "Voltage (V)"
+                        }
+                    ]
                 }
             ],
             "subProducts": [
