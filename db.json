@@ -35,10 +35,10 @@
                     "Voltage": "400",
                     "kW": "0,55",
                     "HP": "0,75",
-                    "Flow": "400",
-                    "Operating Pressure": "0,55",
-                    "Suction": "0,75",
-                    "Suction": "0,75"
+                    "Flow": "1,8",
+                    "Operating Pressure": "37-49",
+                    "Suction": "1"",
+                    "Discharge": "0,75"
                 },
                 {
                     "id": "1506445881315",
