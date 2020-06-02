@@ -38,7 +38,7 @@
                     "Flow": "400",
                     "Operating Pressure": "0,55",
                     "Suction": "0,75",
-                    "Discharge": "0,75"
+                    "Suction": "0,75"
                 },
                 {
                     "id": "1506445881315",
