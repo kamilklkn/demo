@@ -13,11 +13,12 @@
                     "Voltage": "Voltage (V)",
                     "Motor Power": [
                         {
-                            "row3": "Voltage (V)",
+                            "kW": "Voltage (V)",
+                            "HP": "Voltage (V)"
                         }
-                        ],
-                    "row5": "Model",
-                    "row6": "Phase",
+                    ],
+                    "Flow": "Flow (m3/h)",
+                    "Operating Pressure": "Operating Pressure (mWC)",
                     "row7": "Voltage (V)"
                 }
             ],
