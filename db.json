@@ -8,12 +8,17 @@
             "subProductsHeader": [
                 {
                     "id": "1",
-                    "row1": "Model",
-                    "row2": "Phase",
-                    "row3": "Voltage (V)",
-                    "row4": "Model",
-                    "row5": "Phase",
-                    "row6": "Voltage (V)"
+                    "Model": "Model",
+                    "Phase": "Phase",
+                    "Voltage": "Voltage (V)",
+                    "Motor Power": [
+                        {
+                            "row3": "Voltage (V)",
+                        }
+                        ],
+                    "row5": "Model",
+                    "row6": "Phase",
+                    "row7": "Voltage (V)"
                 }
             ],
             "subProducts": [
