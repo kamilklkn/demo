@@ -21,8 +21,8 @@
                     "Operating Pressure": "Operating Pressure (mWC)",
                     "Diameter of Manifold": [
                         {
-                            "Suction": "Voltage (V)",
-                            "Discharge": "Voltage (V)"
+                            "Suction": "Suction",
+                            "Discharge": "Discharge"
                         }
                     ]
                 }
