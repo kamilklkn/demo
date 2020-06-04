@@ -11,12 +11,8 @@
                     "Model": "Model",
                     "Phase": "Phase",
                     "Voltage": "Voltage (V)",
-                    "Motor Power": [
-                        {
-                            "kW": "Voltage (V)",
-                            "HP": "Voltage (V)"
-                        }
-                    ],
+                   "Motor Power kW": "Voltage (V)",
+                            "Motor Power HP": "Voltage (V)",
                     "Flow": "Flow (m3/h)",
                     "Operating Pressure": "Operating Pressure (mWC)",
                     "Diameter of Manifold": [
