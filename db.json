@@ -291,7 +291,7 @@
                 }
             ],
             "price": "0",
-            "image": "/assets/product/1.png"
+            "image": "/assets/images/product/1.png"
         },
         {
             "id": "5584719982",
@@ -322,7 +322,7 @@
                 }
             ],
             "price": "0",
-            "image": "/assets/product/2.png"
+            "image": "/assets/images/product/2.png"
         },
         {
             "id": "2427890724",
@@ -353,7 +353,7 @@
                 }
             ],
             "price": "0",
-            "image": "/assets/product/5.png"
+            "image": "/assets/images/product/5.png"
         },
         {
             "id": "1509522807",
@@ -384,7 +384,7 @@
                 }
             ],
             "price": "0",
-            "image": "/assets/product/6.png"
+            "image": "/assets/images/product/6.png"
         },
         {
             "id": "9056375414",
@@ -415,7 +415,7 @@
                 }
             ],
             "price": "0",
-            "image": "/assets/product/7.png"
+            "image": "/assets/images/product/7.png"
         },
         {
             "id": "7429985549",
@@ -446,7 +446,7 @@
                 }
             ],
             "price": "0",
-            "image": "/assets/product/8.png"
+            "image": "/assets/images/product/8.png"
         },
         {
             "id": "0626317866",
@@ -477,7 +477,7 @@
                 }
             ],
             "price": "0",
-            "image": "/assets/product/9.png"
+            "image": "/assets/images/product/9.png"
         },
         {
             "id": "7235235115",
