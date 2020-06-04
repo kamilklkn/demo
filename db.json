@@ -7,7 +7,6 @@
             "price": "0",
             "subProductsHeader": [
                 {
-                    "id": "1",
                     "Model": "Model",
                     "Phase": "Phase",
                     "Voltage": "Voltage (V)",
