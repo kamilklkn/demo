@@ -15,12 +15,8 @@
                             "Motor Power HP": "Voltage (V)",
                     "Flow": "Flow (m3/h)",
                     "Operating Pressure": "Operating Pressure (mWC)",
-                    "Diameter of Manifold": [
-                        {
-                            "Suction": "Suction",
-                            "Discharge": "Discharge"
-                        }
-                    ]
+                  "Diameter of Manifold Suction": "Suction",
+                            "Diameter of Manifold Discharge": "Discharge"
                 }
             ],
             "subProducts": [
