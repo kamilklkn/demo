@@ -11,12 +11,6 @@
                     "Model": "Model",
                     "Phase": "Phase",
                     "Voltage": "Voltage (V)",
-                    "Motor Power2": "Motor Power: [
-                        {
-                            "kW": "Voltage (V)",
-                            "HP": "Voltage (V)"
-                        }
-                    ],
                     "Motor Power": [
                         {
                             "kW": "Voltage (V)",
