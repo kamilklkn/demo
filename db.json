@@ -11,12 +11,12 @@
                     "Model": "Model",
                     "Phase": "Phase",
                     "Voltage": "Voltage (V)",
-                   "Motor Power kW": "Voltage (V)",
-                            "Motor Power HP": "Voltage (V)",
+                    "MotorPowerkW": "Motor Power kW",
+                    "MotorPowerHP": "Motor Power HP",
                     "Flow": "Flow (m3/h)",
-                    "Operating Pressure": "Operating Pressure (mWC)",
-                  "Diameter of Manifold Suction": "Suction",
-                            "Diameter of Manifold Discharge": "Discharge"
+                    "OperatingPressure": "Operating Pressure (mWC)",
+                    "DiameterofManifoldSuction": "Diameter of Manifold Suction",
+                    "DiameterofManifoldDischarge": "Diameter of Manifold Discharge"
                 }
             ],
             "subProducts": [
