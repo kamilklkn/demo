@@ -366,6 +366,20 @@
             "name": "Optik Altıgen Ters Aplik Beyaz",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
             "productDateAdded": "19/04/2020",
+                    "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "902",
+                    "categoryName": "Dekoratif Armatürler"
+                },
+                {
+                    "id": "902",
+                    "categoryName": "Aplik"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
