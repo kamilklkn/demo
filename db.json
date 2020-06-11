@@ -276,7 +276,7 @@
             "name": "Optik Kare Aplik Beyaz",
             "productDateAdded": "19/05/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni.. ",
-                    "categories": [
+            "categories": [
                 {
                     "id": "90422",
                     "categoryName": "Dış Mekan"
@@ -366,11 +366,11 @@
             "name": "Optik Altıgen Ters Aplik Beyaz",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
             "productDateAdded": "19/04/2020",
-                    "categories": [
+            "categories": [
                 {
                     "id": "90422",
                     "categoryName": "Dış Mekan"
-                },      
+                },
                 {
                     "id": "901",
                     "categoryName": "Bahçe"
@@ -446,11 +446,11 @@
             "name": "Philips Massive Dubrovnik Aplik Yeşil 1X100 15030/45/10",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
             "productDateAdded": "19/04/2020",
-                "categories": [
+            "categories": [
                 {
                     "id": "90422",
                     "categoryName": "Dış Mekan"
-                },      
+                },
                 {
                     "id": "901",
                     "categoryName": "Bahçe"
@@ -495,12 +495,11 @@
             "name": "Aqua Aplik Silah Kafesli Nemli Yer",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
-                "categories": [
+            "categories": [
                 {
                     "id": "90422",
                     "categoryName": "Dış Mekan"
-                },      
-        
+                },
                 {
                     "id": "903",
                     "categoryName": "Dekoratif Armatürler"
@@ -572,11 +571,11 @@
             "name": "Modelight Optik Kare Ters Aplik Siyah",
             "productDateAdded": "19/04/2020",
             "description": "İster yeni bir tesis için, isterse mevcut bir alanın yenilenmesi için olsun, müşteriler kaliteli ışık sunan, enerji ve bakım maliyetlerinden önemli ölçüde tasarruf sağlayan çözümler talep eder. <br><br>Yeni CoreLine Trunking LED ürünleri serisi, genel aydınlatmaya alternatif olarak kullanılabilir. Seçim, kurulum ve bakım işlemleri çok kolay olduğundan basit bir dönüşüm olacaktır.",
-               "categories": [
+            "categories": [
                 {
                     "id": "90422",
                     "categoryName": "Dış Mekan"
-                },      
+                },
                 {
                     "id": "901",
                     "categoryName": "Bahçe"
@@ -586,7 +585,7 @@
                     "categoryName": "Aplik"
                 }
             ],
-           "filters": [
+            "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -648,11 +647,11 @@
             "name": "Lineer Profil LED FIONA FLASH",
             "productDateAdded": "19/04/2020",
             "description": "Elektrostatik toz boyalı alüminyum gövde Yüksek geçirgenlikte PMMA difüzö",
-                "categories": [
+            "categories": [
                 {
                     "id": "90422",
                     "categoryName": "Dış Mekan"
-                },      
+                },
                 {
                     "id": "901",
                     "categoryName": "Bahçe"
@@ -692,11 +691,11 @@
             "name": "Lineer Profil LED FIONA TRI",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
-                "categories": [
+            "categories": [
                 {
                     "id": "90422",
                     "categoryName": "Dış Mekan"
-                },      
+                },
                 {
                     "id": "901",
                     "categoryName": "Bahçe"
@@ -741,11 +740,11 @@
             "name": "Ray Spot 2s 7540",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
-                "categories": [
+            "categories": [
                 {
                     "id": "90422",
                     "categoryName": "Dış Mekan"
-                },      
+                },
                 {
                     "id": "903",
                     "categoryName": "Dekoratif Armatürler"
@@ -786,11 +785,11 @@
             "name": "Ray Spot 7635",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
-                "categories": [
+            "categories": [
                 {
                     "id": "90422",
                     "categoryName": "Dış Mekan"
-                },      
+                },
                 {
                     "id": "901",
                     "categoryName": "Bahçe"
@@ -831,6 +830,24 @@
             "name": "LEDLİ DOWNLIGHT Aydınlatma CAP-7375",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },
+                {
+                    "id": "901",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                },
+                {
+                    "id": "904",
+                    "categoryName": "Aplik"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
@@ -862,6 +879,24 @@
             "name": "Mobi Ahşap Lineer",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },
+                {
+                    "id": "901",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                },
+                {
+                    "id": "904",
+                    "categoryName": "Aplik"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
@@ -924,6 +959,24 @@
             "productDateAdded": "19/04/2020",
             "name": "Led Park ve Bahçe Aydınlatması Dış Mekan LED TEK YÖN APLİK",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },
+                {
+                    "id": "901",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                },
+                {
+                    "id": "904",
+                    "categoryName": "Aplik"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
@@ -986,6 +1039,24 @@
             "productDateAdded": "19/04/2020",
             "name": "Frisco Sarkıt Aydınlatma",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+            "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },
+                {
+                    "id": "901",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                },
+                {
+                    "id": "904",
+                    "categoryName": "Aplik"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
