@@ -692,6 +692,24 @@
             "name": "Lineer Profil LED FIONA TRI",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+                "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },      
+                {
+                    "id": "901",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                },
+                {
+                    "id": "904",
+                    "categoryName": "Aplik"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
@@ -723,6 +741,20 @@
             "name": "Ray Spot 2s 7540",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+                "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },      
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                },
+                {
+                    "id": "904",
+                    "categoryName": "Aplik"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
@@ -754,6 +786,20 @@
             "name": "Ray Spot 7635",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+                "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },      
+                {
+                    "id": "901",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
