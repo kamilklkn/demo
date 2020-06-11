@@ -369,14 +369,18 @@
                     "categories": [
                 {
                     "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },      
+                {
+                    "id": "901",
                     "categoryName": "Bahçe"
                 },
                 {
-                    "id": "902",
+                    "id": "903",
                     "categoryName": "Dekoratif Armatürler"
                 },
                 {
-                    "id": "902",
+                    "id": "904",
                     "categoryName": "Aplik"
                 }
             ],
@@ -442,6 +446,24 @@
             "name": "Philips Massive Dubrovnik Aplik Yeşil 1X100 15030/45/10",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
             "productDateAdded": "19/04/2020",
+                "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },      
+                {
+                    "id": "901",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                },
+                {
+                    "id": "904",
+                    "categoryName": "Aplik"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
@@ -473,6 +495,21 @@
             "name": "Aqua Aplik Silah Kafesli Nemli Yer",
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
+                "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },      
+        
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                },
+                {
+                    "id": "904",
+                    "categoryName": "Aplik"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
@@ -535,7 +572,21 @@
             "name": "Modelight Optik Kare Ters Aplik Siyah",
             "productDateAdded": "19/04/2020",
             "description": "İster yeni bir tesis için, isterse mevcut bir alanın yenilenmesi için olsun, müşteriler kaliteli ışık sunan, enerji ve bakım maliyetlerinden önemli ölçüde tasarruf sağlayan çözümler talep eder. <br><br>Yeni CoreLine Trunking LED ürünleri serisi, genel aydınlatmaya alternatif olarak kullanılabilir. Seçim, kurulum ve bakım işlemleri çok kolay olduğundan basit bir dönüşüm olacaktır.",
-            "filters": [
+               "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },      
+                {
+                    "id": "901",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "904",
+                    "categoryName": "Aplik"
+                }
+            ],
+           "filters": [
                 {
                     "id": "1506445881315",
                     "name": "Duy Tipi",
@@ -597,6 +648,20 @@
             "name": "Lineer Profil LED FIONA FLASH",
             "productDateAdded": "19/04/2020",
             "description": "Elektrostatik toz boyalı alüminyum gövde Yüksek geçirgenlikte PMMA difüzö",
+                "categories": [
+                {
+                    "id": "90422",
+                    "categoryName": "Dış Mekan"
+                },      
+                {
+                    "id": "901",
+                    "categoryName": "Bahçe"
+                },
+                {
+                    "id": "903",
+                    "categoryName": "Dekoratif Armatürler"
+                }
+            ],
             "filters": [
                 {
                     "id": "1506445881315",
