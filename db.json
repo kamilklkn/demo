@@ -33,17 +33,17 @@
                 {
                     "id": "150644434",
                     "name": "Hidrafor Pompa Detaylı Döküman",
-                    "src": "/assets/images/product/ebit/ebit-dc1-dc2-dc3-wv-series-dikey-pompali-hidrafor.png"
+                    "src": "/assets/images/documents/ebit/DC1-2-3.pdf"
                 },
                 {
                     "id": "150644433",
                     "name": "Hidrafor Kullanım Kılavuzu",
-                    "src": "/assets/images/product/ebit/DC1-DC2-DC3.pdf"
+                    "src": "/assets/images/documents/ebit/DC1-DC2-DC3.pdf"
                 },
                 {
                     "id": "Hidrafor Garanti Şartları",
                     "name": "resim 3",
-                    "src": "/assets/images//ebit/dummy.pdf"
+                    "src": "/assets/images/documents/ebit/dummy.pdf"
                 }
            
             ],
@@ -721,6 +721,24 @@
             "productDateAdded": "19/04/2020",
             "description": "Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... Açıklama Metni... ",
             "descriptionContentText": ".....",
+              "catalogsAndDocuments": [
+                {
+                    "id": "150644434",
+                    "name": "Hidrafor Pompa Detaylı Döküman",
+                    "src": "/assets/images/documents/ebit/DC1-2-3.pdf"
+                },
+                {
+                    "id": "150644433",
+                    "name": "Hidrafor Kullanım Kılavuzu",
+                    "src": "/assets/images/documents/ebit/DC1-DC2-DC3.pdf"
+                },
+                {
+                    "id": "Hidrafor Garanti Şartları",
+                    "name": "resim 3",
+                    "src": "/assets/images/documents/ebit/dummy.pdf"
+                }
+           
+            ],
             "categories": [
                 {
                     "id": "90422",
