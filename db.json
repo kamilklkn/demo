@@ -29,6 +29,24 @@
                 }
             ],
             "descriptionContentText": "<h5 class=\"title-description\">Ürün Açıklaması</h5><p>İster yeni bir tesis için, isterse mevcut bir alanın yenilenmesi için olsun, müşteriler kaliteli ışık sunan, enerji ve bakım maliyetlerinden önemli ölçüde tasarruf sağlayan çözümler talep eder. <br><br> Yeni CoreLine Trunking LED ürünleri serisi, genel aydınlatmaya alternatif olarak kullanılabilir. Seçim, kurulum ve bakım işlemleri çok kolay olduğundan basit bir dönüşüm olacaktır. </p> <ul class=\"list-check\"> <li>Yüksek verimlilik ve dayanıklılık için Philips Fortimo LED Line 1R</li> <li>Kolaylık: bir ışık hattı oluşturmak için sadece iki adet 12 NC kod gereklidir</li> <li>Gelişmiş optik sistemler kesin ve enerji tasarrufu sağlayan ışın şekilleri sağlar</li> <li>Floresandan çok az daha ambalaj gerektirir ve toplam montaj süresini kısaltır</li> </ul> <h5 class=\"title-description\">Uygulama Alanları</h5><dl class=\"row\"><dt class=\"col-sm-12 pb-1\">Süpermarketler</dt><dt class=\"col-sm-12 pb-1\">Üretim tesisleri</dt><dt class=\"col-sm-12 pb-1\">Depolar</dt></dl>",
+            "catalogsAndDocuments": [
+                {
+                    "id": "150644434",
+                    "name": "Hidrafor Pompa Detaylı Döküman",
+                    "src": "/assets/images/documents/ebit/DC1-2-3.pdf"
+                },
+                {
+                    "id": "150644433",
+                    "name": "Hidrafor Kullanım Kılavuzu",
+                    "src": "/assets/images/documents/ebit/DC1-DC2-DC3.pdf"
+                },
+                {
+                    "id": "Hidrafor Garanti Şartları",
+                    "name": "resim 3",
+                    "src": "/assets/images/documents/ebit/dummy.pdf"
+                }
+           
+            ],
             "subProducts": [
                 {
                     "id": "1506445881311",
